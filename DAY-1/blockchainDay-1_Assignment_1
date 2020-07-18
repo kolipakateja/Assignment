@@ -1,0 +1,41 @@
+
+ASSIGNMENT-1 DAY-1 BLOCK CHAIN
+
+1)What is your understanding of Blockchain?
+  The blockchain is a distributed database of records of all transactions or digital event that have been 
+  executed and shared among participating parties.Each transaction verified by the majority of participants
+  of the system.one of the famous example of vlock chain is Bitcoin, Bitcoin uses cryptographic proof instead
+  of third-party trust for two parties to execute transactions over the internet.Blockchain technology is first
+  came when a person or individual name called "Satoshi Nakamoto" published on white paper.
+
+
+2)What is the core problem Blockchain trying to solve?
+    At the moment, sending money to another either domestically or internationally requires the use of a third party,
+    be it your local bank.these may charges some fee and we additionally,we must trust these third parties in how they
+   handle our data.Blockchain technology allows for individuals to send cryptocurrencies between one another as a 
+   transfer of value. This is done without needing to rely on third parties.
+
+
+3)What are the few features which Blockchain will give you?
+    ->decentralized
+    ->distributed data base
+   ->immutable
+   ->tamper-proof
+   ->provide peer to peer network
+
+
+4)What all things does a Block contain?
+    a)block number
+    b)Transaction record
+    c)previous record block
+    d)mining key
+
+
+5)How is the verifiability of Block chain is been obtained?
+   Enterprise looking to leverage the peer to peer trustless structure of blockchain technology often wonder how data
+   can be both publicly verifiable and anonymous at the same time,we have two types of block chains there are permissioned 
+   and permissionless blockchains.In permissionless blockchain any one can join in the network,but in permissioned it need 
+  some specific authorization.
+   
+   
+   
